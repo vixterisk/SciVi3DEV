@@ -1,5 +1,157 @@
 {
-    "last_id": "99",
+    "history": [
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:03:30Z",
+            "node_id": 100,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683896610
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:03:37Z",
+            "new_name": "ColorScale",
+            "new_namespace": "http://knova.ru/user/1532855052471",
+            "node_id": 100,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683896617
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:03:47Z",
+            "destination_id": 1,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 101,
+            "source_id": 100,
+            "timestamp": 1683896627
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:03:54Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1532855052471",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 101,
+            "timestamp": 1683896634
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:04:10Z",
+            "node_id": 102,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683896650
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:04:10Z",
+            "destination_id": 102,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 103,
+            "source_id": 100,
+            "timestamp": 1683896650
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:04:21Z",
+            "new_name": "ColorScaleWidget",
+            "new_namespace": "http://knova.ru/user/1532855052471",
+            "node_id": 102,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683896661
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:04:25Z",
+            "destination_id": 102,
+            "name": "",
+            "namespace": "",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 103,
+            "source_id": 100,
+            "timestamp": 1683896665
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:04:28Z",
+            "destination_id": 100,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 104,
+            "source_id": 102,
+            "timestamp": 1683896668
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:04:35Z",
+            "new_name": "is_used",
+            "new_namespace": "http://knova.ru/user/1532855052471",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 104,
+            "timestamp": 1683896675
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:04:48Z",
+            "destination_id": 30,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 105,
+            "source_id": 102,
+            "timestamp": 1683896688
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:04:53Z",
+            "destination_id": 31,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 106,
+            "source_id": 102,
+            "timestamp": 1683896693
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:04:58Z",
+            "new_name": "language",
+            "new_namespace": "http://knova.ru/user/1532855052471",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 106,
+            "timestamp": 1683896698
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:05:08Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1532855052471",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 105,
+            "timestamp": 1683896708
+        }
+    ],
+    "last_id": "106",
     "namespaces": {
         "default": "http://knova.ru/user/1532855052471",
         "ontolis-avis": "http://knova.ru/ontolis-avis",
@@ -85,7 +237,7 @@
             "id": "8",
             "name": "Color",
             "namespace": "http://knova.ru/user/1532855052471",
-            "position_x": 818,
+            "position_x": 817,
             "position_y": 1127
         },
         {
@@ -275,8 +427,8 @@
             "id": "61",
             "name": "Files",
             "namespace": "http://knova.ru/user/1532855052471",
-            "position_x": 900,
-            "position_y": 1132
+            "position_x": 893,
+            "position_y": 1131
         },
         {
             "attributes": {
@@ -286,7 +438,7 @@
             "name": "FilesWidget",
             "namespace": "http://knova.ru/user/1532855052471",
             "position_x": 1124,
-            "position_y": 1311
+            "position_y": 1310
         },
         {
             "attributes": {
@@ -394,6 +546,25 @@
             "namespace": "https://github.com/AlexProfanov/ontolis",
             "position_x": 720,
             "position_y": 298
+        },
+        {
+            "attributes": {
+            },
+            "id": "100",
+            "name": "ColorScale",
+            "namespace": "http://knova.ru/user/1532855052471",
+            "position_x": 738,
+            "position_y": 1302
+        },
+        {
+            "attributes": {
+                "path": "lib/widgets/ColorScale.js"
+            },
+            "id": "102",
+            "name": "ColorScaleWidget",
+            "namespace": "http://knova.ru/user/1532855052471",
+            "position_x": 835,
+            "position_y": 1385
         }
     ],
     "relations": [
@@ -900,6 +1071,42 @@
             "name": "is_a",
             "namespace": "https://github.com/AlexProfanov/ontolis",
             "source_node_id": "97"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "101",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1532855052471",
+            "source_node_id": "100"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "100",
+            "id": "104",
+            "name": "is_used",
+            "namespace": "http://knova.ru/user/1532855052471",
+            "source_node_id": "102"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "30",
+            "id": "105",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1532855052471",
+            "source_node_id": "102"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "31",
+            "id": "106",
+            "name": "language",
+            "namespace": "http://knova.ru/user/1532855052471",
+            "source_node_id": "102"
         }
     ],
     "visualize_ont_path": ""

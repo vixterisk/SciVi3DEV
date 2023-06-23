@@ -1,0 +1,1821 @@
+{
+    "history": [
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:09:58Z",
+            "node_id": 1,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683896998
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:10:09Z",
+            "new_name": "Root",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 1,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897009
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:10:13Z",
+            "node_id": 2,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897013
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:10:19Z",
+            "new_name": "VisualObject",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 2,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897019
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:10:29Z",
+            "node_id": 3,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897029
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:10:38Z",
+            "new_name": "UnityVisualization",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 3,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897038
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:10:47Z",
+            "destination_id": 1,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 4,
+            "source_id": 2,
+            "timestamp": 1683897047
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:10:49Z",
+            "destination_id": 2,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 5,
+            "source_id": 3,
+            "timestamp": 1683897049
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:10:54Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 4,
+            "timestamp": 1683897054
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:10:58Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 5,
+            "timestamp": 1683897058
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:12:31Z",
+            "node_id": 6,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897151
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:12:35Z",
+            "new_name": "a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 6,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897155
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:12:38Z",
+            "node_id": 7,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897158
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:12:39Z",
+            "new_name": "s",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 7,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897159
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:12:43Z",
+            "node_id": 8,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897163
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:12:48Z",
+            "new_name": "JavaScript",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 8,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897168
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:13:13Z",
+            "new_name": "3dModelWorker",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 6,
+            "old_name": "a",
+            "old_namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897193
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:13:29Z",
+            "new_name": "ClientSideWorker",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 7,
+            "old_name": "s",
+            "old_namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897209
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:13:38Z",
+            "destination_id": 3,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 9,
+            "source_id": 6,
+            "timestamp": 1683897218
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:13:44Z",
+            "new_name": "is_instance",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 9,
+            "timestamp": 1683897224
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:13:51Z",
+            "destination_id": 7,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 10,
+            "source_id": 6,
+            "timestamp": 1683897231
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:13:56Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 10,
+            "timestamp": 1683897236
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:14:00Z",
+            "destination_id": 8,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 11,
+            "source_id": 6,
+            "timestamp": 1683897240
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:14:06Z",
+            "new_name": "language",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 11,
+            "timestamp": 1683897246
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:15:38Z",
+            "node_id": 12,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897338
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:15:48Z",
+            "new_name": "Color Scale",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 12,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897348
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:15:57Z",
+            "node_id": 13,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897357
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:15:58Z",
+            "new_name": "a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 13,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897358
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:00Z",
+            "node_id": 14,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897360
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:01Z",
+            "new_name": "s",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 14,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897361
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:09Z",
+            "new_name": "Setting",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 13,
+            "old_name": "a",
+            "old_namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897369
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:13Z",
+            "destination_id": 13,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 15,
+            "source_id": 12,
+            "timestamp": 1683897373
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:17Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 15,
+            "timestamp": 1683897377
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:30Z",
+            "new_name": "ColorScale",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 14,
+            "old_name": "s",
+            "old_namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897390
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:33Z",
+            "node_id": 16,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897393
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:36Z",
+            "new_name": "Type",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 16,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897396
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:40Z",
+            "destination_id": 16,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 17,
+            "source_id": 14,
+            "timestamp": 1683897400
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:42Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 17,
+            "timestamp": 1683897402
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:47Z",
+            "destination_id": 14,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 18,
+            "source_id": 12,
+            "timestamp": 1683897407
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:50Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 18,
+            "timestamp": 1683897410
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:16:55Z",
+            "destination_id": 12,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 19,
+            "source_id": 3,
+            "timestamp": 1683897415
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:17:00Z",
+            "new_name": "has",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 19,
+            "timestamp": 1683897420
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:18:53Z",
+            "new_name": "UnityWorker",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 6,
+            "old_name": "3dModelWorker",
+            "old_namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897533
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:20:46Z",
+            "destination_id": 14,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 18,
+            "source_id": 12,
+            "timestamp": 1683897646
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:21:06Z",
+            "destination_id": 16,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 17,
+            "source_id": 14,
+            "timestamp": 1683897666
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:21:06Z",
+            "name": "ColorScale",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 14,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683897666
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:21:06Z",
+            "name": "Type",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 16,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683897666
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:21:15Z",
+            "destination_id": 13,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 15,
+            "source_id": 12,
+            "timestamp": 1683897675
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:21:15Z",
+            "destination_id": 12,
+            "name": "has",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 19,
+            "source_id": 3,
+            "timestamp": 1683897675
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:21:15Z",
+            "name": "Color Scale",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 12,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683897675
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:21:15Z",
+            "name": "Setting",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 13,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683897675
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:23:46Z",
+            "node_id": 20,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897826
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:23:48Z",
+            "new_name": "EEG",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 20,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897828
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:24:12Z",
+            "destination_id": 20,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 21,
+            "source_id": 3,
+            "timestamp": 1683897852
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:24:16Z",
+            "new_name": "has",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 21,
+            "timestamp": 1683897856
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:24:48Z",
+            "node_id": 22,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897888
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:24:51Z",
+            "new_name": "Input",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 22,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897891
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:10Z",
+            "destination_id": 22,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 23,
+            "source_id": 20,
+            "timestamp": 1683897910
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:15Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 23,
+            "timestamp": 1683897915
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:24Z",
+            "node_id": 24,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897924
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:26Z",
+            "new_name": "Grid",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 24,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897926
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:35Z",
+            "node_id": 25,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683897935
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:38Z",
+            "new_name": "Type",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 25,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683897938
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:41Z",
+            "destination_id": 24,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 26,
+            "source_id": 22,
+            "timestamp": 1683897941
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:47Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 26,
+            "timestamp": 1683897947
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:50Z",
+            "destination_id": 25,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 27,
+            "source_id": 24,
+            "timestamp": 1683897950
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:25:53Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 27,
+            "timestamp": 1683897953
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:13Z",
+            "destination_id": 24,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 26,
+            "source_id": 22,
+            "timestamp": 1683898093
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:13Z",
+            "destination_id": 25,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 27,
+            "source_id": 24,
+            "timestamp": 1683898093
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:13Z",
+            "name": "Grid",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 24,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683898093
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:13Z",
+            "name": "Type",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 25,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683898093
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:21Z",
+            "destination_id": 22,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 23,
+            "source_id": 20,
+            "timestamp": 1683898101
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:21Z",
+            "name": "Input",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 22,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683898101
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:21Z",
+            "destination_id": 20,
+            "name": "has",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 21,
+            "source_id": 3,
+            "timestamp": 1683898101
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:21Z",
+            "name": "EEG",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 20,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683898101
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:34Z",
+            "node_id": 28,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683898114
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:38Z",
+            "new_name": "History",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 28,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683898118
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:40Z",
+            "node_id": 29,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1683898120
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:42Z",
+            "new_name": "Setting",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 29,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1683898122
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:50Z",
+            "destination_id": 28,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 30,
+            "source_id": 3,
+            "timestamp": 1683898130
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:55Z",
+            "new_name": "has",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 30,
+            "timestamp": 1683898135
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:28:57Z",
+            "destination_id": 29,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 31,
+            "source_id": 28,
+            "timestamp": 1683898137
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:29:02Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 31,
+            "timestamp": 1683898142
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:30:33Z",
+            "destination_id": 29,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 31,
+            "source_id": 28,
+            "timestamp": 1683898233
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:30:33Z",
+            "name": "Setting",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 29,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683898233
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:30:33Z",
+            "destination_id": 28,
+            "name": "has",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 30,
+            "source_id": 3,
+            "timestamp": 1683898233
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-12T13:30:33Z",
+            "name": "History",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 28,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1683898233
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:39:58Z",
+            "node_id": 32,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684154398
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:40:16Z",
+            "new_name": "ColorScale",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 32,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684154416
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:40:23Z",
+            "destination_id": 32,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 33,
+            "source_id": 3,
+            "timestamp": 1684154423
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:40:28Z",
+            "new_name": "has",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 33,
+            "timestamp": 1684154428
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:40:40Z",
+            "node_id": 34,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684154440
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:40:44Z",
+            "new_name": "Setting",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 34,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684154444
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:40:50Z",
+            "destination_id": 34,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 35,
+            "source_id": 32,
+            "timestamp": 1684154450
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:40:56Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 35,
+            "timestamp": 1684154456
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:42:29Z",
+            "node_id": 36,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684154549
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:42:40Z",
+            "new_name": "ColorScale",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 36,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684154560
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:42:43Z",
+            "node_id": 37,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684154563
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:42:49Z",
+            "new_name": "Type",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 37,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684154569
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:43:07Z",
+            "new_name": "Color Scale",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 32,
+            "old_name": "ColorScale",
+            "old_namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684154587
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:43:19Z",
+            "destination_id": 36,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 38,
+            "source_id": 32,
+            "timestamp": 1684154599
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:43:27Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 38,
+            "timestamp": 1684154607
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:43:35Z",
+            "destination_id": 37,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 39,
+            "source_id": 36,
+            "timestamp": 1684154615
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T12:43:38Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 39,
+            "timestamp": 1684154618
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:10:11Z",
+            "node_id": 40,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684156211
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:10:18Z",
+            "new_name": "EEG",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 40,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684156218
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:10:20Z",
+            "node_id": 41,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684156220
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:10:25Z",
+            "new_name": "Input",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 41,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684156225
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:10:35Z",
+            "destination_id": 40,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 42,
+            "source_id": 3,
+            "timestamp": 1684156235
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:10:40Z",
+            "new_name": "has",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 42,
+            "timestamp": 1684156240
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:10:45Z",
+            "destination_id": 41,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 43,
+            "source_id": 40,
+            "timestamp": 1684156245
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:10:49Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 43,
+            "timestamp": 1684156249
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:11:00Z",
+            "node_id": 44,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684156260
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:11:03Z",
+            "new_name": "Grid",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 44,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684156263
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:11:08Z",
+            "destination_id": 44,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 45,
+            "source_id": 40,
+            "timestamp": 1684156268
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:11:11Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 45,
+            "timestamp": 1684156271
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:11:17Z",
+            "destination_id": 37,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 46,
+            "source_id": 44,
+            "timestamp": 1684156277
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:11:19Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 46,
+            "timestamp": 1684156279
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:13:12Z",
+            "node_id": 47,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684156392
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:13:23Z",
+            "new_name": "Labels",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 47,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684156403
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:13:25Z",
+            "node_id": 48,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684156405
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:13:29Z",
+            "new_name": "String",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 48,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684156409
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:13:30Z",
+            "node_id": 49,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1684156410
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:13:33Z",
+            "new_name": "Array",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 49,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684156413
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:14:21Z",
+            "destination_id": 47,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 50,
+            "source_id": 3,
+            "timestamp": 1684156461
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:14:27Z",
+            "new_name": "has",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 50,
+            "timestamp": 1684156467
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:14:42Z",
+            "destination_id": 48,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 51,
+            "source_id": 47,
+            "timestamp": 1684156482
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:14:55Z",
+            "new_name": "base_type",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 51,
+            "timestamp": 1684156495
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:15:00Z",
+            "destination_id": 49,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 52,
+            "source_id": 47,
+            "timestamp": 1684156500
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:15:05Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 52,
+            "timestamp": 1684156505
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:15:09Z",
+            "destination_id": 41,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 53,
+            "source_id": 47,
+            "timestamp": 1684156509
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:15:13Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 53,
+            "timestamp": 1684156513
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:15:19Z",
+            "destination_id": 37,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 54,
+            "source_id": 48,
+            "timestamp": 1684156519
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:15:23Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 54,
+            "timestamp": 1684156523
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:15:27Z",
+            "destination_id": 37,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 55,
+            "source_id": 49,
+            "timestamp": 1684156527
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T13:15:30Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 55,
+            "timestamp": 1684156530
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-05-15T14:12:06Z",
+            "new_name": "UnityVisualizationWorker",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 6,
+            "old_name": "UnityWorker",
+            "old_namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1684159926
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-06-23T04:38:37Z",
+            "new_name": "ColorScale",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 32,
+            "old_name": "Color Scale",
+            "old_namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1687495117
+        },
+        {
+            "author": "vixterisk@gmail.com",
+            "datetime": "2023-06-23T04:39:17Z",
+            "new_name": "Color Scale",
+            "new_namespace": "http://knova.ru/user/1683896995189",
+            "node_id": 32,
+            "old_name": "ColorScale",
+            "old_namespace": "http://knova.ru/user/1683896995189",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1687495157
+        }
+    ],
+    "last_id": "55",
+    "namespaces": {
+        "default": "http://knova.ru/user/1683896995189",
+        "ontolis-avis": "http://knova.ru/ontolis-avis",
+        "owl": "http://www.w3.org/2002/07/owl",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema",
+        "xsd": "http://www.w3.org/2001/XMLSchema"
+    },
+    "nodes": [
+        {
+            "attributes": {
+            },
+            "id": "1",
+            "name": "Root",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 804,
+            "position_y": 265
+        },
+        {
+            "attributes": {
+            },
+            "id": "2",
+            "name": "VisualObject",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 760,
+            "position_y": 354
+        },
+        {
+            "attributes": {
+            },
+            "id": "3",
+            "name": "UnityVisualization",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 724,
+            "position_y": 438
+        },
+        {
+            "attributes": {
+                "path": "lib/eeg/unityVisualization.js"
+            },
+            "id": "6",
+            "name": "UnityVisualizationWorker",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 913,
+            "position_y": 352
+        },
+        {
+            "attributes": {
+            },
+            "id": "7",
+            "name": "ClientSideWorker",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 903,
+            "position_y": 282
+        },
+        {
+            "attributes": {
+            },
+            "id": "8",
+            "name": "JavaScript",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 924,
+            "position_y": 430
+        },
+        {
+            "attributes": {
+                "default:": "4"
+            },
+            "id": "32",
+            "name": "Color Scale",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 557,
+            "position_y": 534
+        },
+        {
+            "attributes": {
+            },
+            "id": "34",
+            "name": "Setting",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 451,
+            "position_y": 664
+        },
+        {
+            "attributes": {
+            },
+            "id": "36",
+            "name": "ColorScale",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 316,
+            "position_y": 616
+        },
+        {
+            "attributes": {
+            },
+            "id": "37",
+            "name": "Type",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 200,
+            "position_y": 567
+        },
+        {
+            "attributes": {
+            },
+            "id": "40",
+            "name": "EEG",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 524,
+            "position_y": 433
+        },
+        {
+            "attributes": {
+            },
+            "id": "41",
+            "name": "Input",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 370,
+            "position_y": 372
+        },
+        {
+            "attributes": {
+            },
+            "id": "44",
+            "name": "Grid",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 360,
+            "position_y": 487
+        },
+        {
+            "attributes": {
+            },
+            "id": "47",
+            "name": "Labels",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 569,
+            "position_y": 302
+        },
+        {
+            "attributes": {
+            },
+            "id": "48",
+            "name": "String",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 316,
+            "position_y": 200
+        },
+        {
+            "attributes": {
+            },
+            "id": "49",
+            "name": "Array",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "position_x": 343,
+            "position_y": 285
+        }
+    ],
+    "relations": [
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "4",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "2"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "2",
+            "id": "5",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "3"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "3",
+            "id": "9",
+            "name": "is_instance",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "6"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "7",
+            "id": "10",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "6"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "8",
+            "id": "11",
+            "name": "language",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "6"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "32",
+            "id": "33",
+            "name": "has",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "3"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "34",
+            "id": "35",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "32"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "36",
+            "id": "38",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "32"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "37",
+            "id": "39",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "36"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "40",
+            "id": "42",
+            "name": "has",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "3"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "41",
+            "id": "43",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "40"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "44",
+            "id": "45",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "40"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "37",
+            "id": "46",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "44"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "47",
+            "id": "50",
+            "name": "has",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "3"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "48",
+            "id": "51",
+            "name": "base_type",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "47"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "49",
+            "id": "52",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "47"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "41",
+            "id": "53",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "47"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "37",
+            "id": "54",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "48"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "37",
+            "id": "55",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1683896995189",
+            "source_node_id": "49"
+        }
+    ],
+    "visualize_ont_path": ""
+}
