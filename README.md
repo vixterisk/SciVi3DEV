@@ -35,4 +35,4 @@ The `kb` directory contains knowledge base that the server uses while working. A
 
 ## Unity Visualization ##
 
-Unity visualization module runs separately and its source code and releases can be found [Here](https://github.com/vixterisk/SciViUnityVisualization) 
+Unity visualization module runs separately and its source code and binary files can be found [here](https://github.com/vixterisk/SciViUnityVisualization).
